@@ -1,0 +1,45 @@
+So the potential for this page
+
+Do a chicken wings fan page 
+
+integrate a map showing off the top 5 wing spots in Dublin, potential to show access by public transport
+
+
+give an interactive data set, a graph comparing some simple but important metrics ; Taste, Price, Experience
+    5 Spots
+    
+    Wishbone; Taste:10, Price:€€, Experience: 7
+    Elephant & Castle Taste:9, Price:€€, Experience: 9
+    Blue Bar Taste:7, Price:€€€, Experience: 10
+    Tribecca Taste:8, Price:€€€, Experience: 9
+    Mad Egg Taste:9, Price:€, Experience: 7
+    
+    filters are the Taste Price Experience
+    Overlapping bar chart can easily demonstrate and nicely contrast the data making it easy to visualise
+
+    Map can show off where these locations are 
+    
+    Set price ranges for the € (5-10,10-20, 20+) equivalent;
+    Possibly add links to social medias/company websites
+    
+    have possible link to hot ones for an example of how spicy things can get? Not vital random addition.
+    
+    Have the page be one single long html. 
+    
+    Menu consist of XXX key nav elements
+    
+        Home
+        Map
+        Data Dashboard
+        Contact info for the Places?
+        Style as Card's page from examples?
+        could make a seperatet html for the contact page.
+        
+        
+        
+The UX of the page
+
+the user experience of this page should not exceed 3 clicks upon the site to arrive anywhere,
+the key focus of the interactivity of the page is upon both the data dashboard,
+and secondarily upon the map as it will not have the level of sttimulus the dashboard plans to 
+        
